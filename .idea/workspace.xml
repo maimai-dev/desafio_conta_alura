@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a433511-b9f2-4fd9-92ec-4bceb6a74bfd" name="Changes" comment="commit 09/09" />
+    <list default="true" id="1a433511-b9f2-4fd9-92ec-4bceb6a74bfd" name="Changes" comment="commit 09/09 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,21 +13,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "maimai-dev"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;maimai-dev&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/maimai-dev/desafio_conta_alura.git",
-    "accountId": "9a87a38f-c202-4c90-8466-520ec031f542"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/maimai-dev/desafio_conta_alura.git&quot;,
+    &quot;accountId&quot;: &quot;9a87a38f-c202-4c90-8466-520ec031f542&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2lqkR7WkF9ENoj1IHTRWp8BMX2x" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -39,6 +39,7 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Projetos_Java/primeiro_projeto_java",
     "onboarding.tips.debug.path": "C:/Projetos_Java/desafio_conta_alura/src/Main.java"
@@ -61,15 +62,7 @@
       <option name="project" value="LOCAL" />
       <updated>1725915105353</updated>
     </task>
-    <task id="LOCAL-00002" summary="commit 09/09">
-      <option name="closed" value="true" />
-      <created>1725916568102</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1725916568102</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,7 +78,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primeiro commit 09/09" />
-    <MESSAGE value="commit 09/09" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 09/09" />
+    <option name="LAST_COMMIT_MESSAGE" value="primeiro commit 09/09" />
   </component>
 </project>
